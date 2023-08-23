@@ -9,7 +9,7 @@ const nextConfig = {
       test: /\.node$/,
       use: [
         {
-          loader: "nextjs-node-loader",
+          loader: "pgml-nextjs-node-loader",
           options: {
             flags: os.constants.dlopen.RTLD_NOW,
             outputPath: config.output.path,
