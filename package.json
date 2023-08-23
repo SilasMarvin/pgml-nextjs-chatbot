@@ -19,6 +19,7 @@
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
     "next": "13.4.13",
+    "nextjs-node-loader": "^1.1.4",
     "openai": "^3.3.0",
     "pgml-nextjs-node-loader": "^1.1.5",
     "pgml-test": "^0.1.0",
@@ -29,7 +30,6 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "nextjs-node-loader": "^1.1.4",
     "node-loader": "^2.0.0"
   }
 }
