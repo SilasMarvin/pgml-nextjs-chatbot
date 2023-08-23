@@ -8,10 +8,7 @@ const nextConfig = {
       test: /\.node$/,
       use: [
         {
-          loader: path.resolve(
-            __dirname,
-            "pgml-nextjs-node-loader/dist/cjs.js",
-          ),
+          loader: "pgml-nextjs-node-loader" 
         },
       ],
     });

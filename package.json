@@ -20,6 +20,7 @@
     "eslint-config-next": "13.4.13",
     "next": "13.4.13",
     "openai": "^3.3.0",
+    "pgml-nextjs-node-loader": "^1.1.5",
     "pgml-test": "^0.1.0",
     "postcss": "8.4.27",
     "react": "18.2.0",
