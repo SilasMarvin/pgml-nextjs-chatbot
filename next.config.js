@@ -118,7 +118,7 @@ const nextConfig = {
       test: /\.node$/,
       use: [
         {
-          loader: "pgml-nextjs-node-loader",
+          loader: "nextjs-node-loader",
         },
       ],
     });
